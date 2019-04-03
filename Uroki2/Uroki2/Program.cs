@@ -10,6 +10,9 @@ namespace Uroki2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Vitalik i Sanek shutat");
+
+            Console.ReadKey();
         }
     }
 }
